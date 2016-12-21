@@ -8,6 +8,7 @@
 **值得注意的是:** 
 - 这种方式安装，每次更新 Node.js 的版本，都需要从官网下载，并且进行覆盖安装。
 - 这种方式安装，在系统中只能存在一个版本的 Node.js ，不适合对比学习。
+
 ### 2. 使用 nvm 版本管理器
 nvm 是 [Tim Caswell](https://github.com/creationix) 开发的一款 Mac 系统中使用的通过命令方式管理多版本 Node.js 的软件。
 nvm 软件的相关介绍，可以访问 [该项目的github主页](https://github.com/creationix/nvm)。
