@@ -15,9 +15,10 @@
 ## 课程目录
 
 - 基础篇
-	- [安装 Node.js](01-install-nodejs.md)
+	- [通过 nvm 安装 Node.js](01-install-nodejs.md)
 	- [Hello World](02-hello-world.md)
-	- [第一个示例](03-first-sample.md)
+	- [第一个 Node.js 示例](03-first-sample.md)
+	- [Node.js 的模块化机制](04-module-system.md)
 
 ## 版权说明
 
