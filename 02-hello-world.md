@@ -7,7 +7,7 @@
 打开 Mac 系统的“终端”软件或 Windows 系统的“命令行窗口”。
 输入 `node` 命令，即可进入 Node.js 的 REPL 模式。如下图:
 
-[](images/Snip20161205_1.png)
+![](images/Snip20161205_1.png)
 ￼
 在 REPL 模式下，输入以下语句，并且回车查看结果。
 
@@ -16,6 +16,8 @@ console.log("Hello World");
 ```
 
 **需要说明的是:** `console` 是 Node.js 的全局对象，作用与浏览器中开发者工具的控制台类似。
+
+![](images/2016-12-05-16-43-05.png)
 
 如上图所示，我们会看到输出的 `Hello World` 内容。
 **值得注意的是:** `undefined` 表示 `console.log()` 方法没有任何返回值。
