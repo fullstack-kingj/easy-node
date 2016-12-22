@@ -19,6 +19,7 @@
 	- [Hello World](02-hello-world.md)
 	- [第一个 Node.js 示例](03-first-sample.md)
 	- [Node.js 的模块化机制](04-module-system.md)
+	- [创建 HTTP 服务器](05-create-server.md)
 
 ## 版权说明
 
