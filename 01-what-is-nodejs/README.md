@@ -95,3 +95,5 @@ Node.js 除了是基于 Chrome 浏览器的 V8 引擎以外，还提供了一系
 ![Node.js 的核心模块体系图](nodejs-module-system-diagram.png)
 
 我们学习 Node.js，主要就是学习 Node.js 所提供的模块内容。所以，不要着急，我们慢慢来。
+
+### [下一回 安装 Node.js](../02-install-nodejs/README.md)

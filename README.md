@@ -15,8 +15,8 @@
 ## 课程目录
 
 - 第一章 开启Node世界的大门
-	- [第一回 什么是 Node.js](01-what-is-nodejs)
-	- [通过 nvm 安装 Node.js](01-install-nodejs.md)
+	- [第一回 什么是 Node.js](01-what-is-nodejs/README.md)
+	- [第二回 安装 Node.js](02-install-nodejs/README.md)
 	- [Hello World](02-hello-world.md)
 	- [第一个 Node.js 示例](03-first-sample.md)
 	- [Node.js 的模块化机制](04-module-system.md)
