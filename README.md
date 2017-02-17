@@ -14,14 +14,18 @@
 
 ## 课程目录
 
-- 第一章 开启Node世界的大门
+- 第一章 开启 Node 世界的大门
 	- [第一回 什么是 Node.js](01-what-is-nodejs/README.md)
 	- [第二回 安装 Node.js](02-install-nodejs/README.md)
-	- [Hello World](02-hello-world.md)
-	- [第一个 Node.js 示例](03-first-sample.md)
-	- [Node.js 的模块化机制](04-module-system.md)
-	- [创建 HTTP 服务器](05-create-server.md)
-	- [Node.js 处理客户端请求](06-client-request.md)
+	- [第三回 Node REPL](03-nodejs-repl/README.md)
+	- [第四回 Hello World](04-hello-world/README.md)
+- 第二章 第一个 Node 应用程序
+	- [第五回 官方示例](05-official-sample/README.md)
+	- [第六回 const 关键字](06-keywords-const/README.md)
+	- [第七回 箭头函数](07-arrow-function/README.md)
+	- [第八回 模板字符串](08-template-string/README.md)
+- 第三章 Node 的模块化机制
+	- []()
 
 ## 版权说明
 
