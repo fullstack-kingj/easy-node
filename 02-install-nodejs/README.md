@@ -10,8 +10,8 @@
 
 Windows 系统或者 MacOS 系统可以参考下面的图文教程来进行安装：
 
-- [Windows 系统环境安装 Node.js 参考教程](windows-system-environment-installation-nodejs.md)
-- [MacOS 系统环境安装 Node.js 参考教程](macos-system-environment-installation-nodejs.md)
+- [Windows 系统环境安装 Node.js 参考教程](../03-windows-system-environment-installation-nodejs/README.md)
+- [MacOS 系统环境安装 Node.js 参考教程](../04-macos-system-environment-installation-nodejs/README.md)
 
 > **这里需要注意的是：**
 > 

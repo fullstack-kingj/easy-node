@@ -17,14 +17,27 @@
 - 第一章 开启 Node 世界的大门
 	- [第一回 什么是 Node.js](01-what-is-nodejs/README.md)
 	- [第二回 安装 Node.js](02-install-nodejs/README.md)
-	- [第三回 Node REPL](03-nodejs-repl/README.md)
-	- [第四回 Hello World](04-hello-world/README.md)
+	- [番外篇 Windows 系统环境安装 Node.js](03-windows-system-environment-installation-nodejs/README.md)
+	- [番外篇 MacOS 系统环境安装 Node.js](04-macos-system-environment-installation-nodejs/README.md)
+	- [第三回 Node REPL](05-nodejs-repl/README.md)
+	- [第四回 Hello World](06-hello-world/README.md)
 - 第二章 第一个 Node 应用程序
-	- [第五回 官方示例](05-official-sample/README.md)
-	- [第六回 const 关键字](06-keywords-const/README.md)
-	- [第七回 箭头函数](07-arrow-function/README.md)
-	- [第八回 模板字符串](08-template-string/README.md)
+	- [第五回 官方示例](07-official-sample/README.md)
+	- [第六回 const 关键字](08-keywords-const/README.md)
+	- [番外篇 var、let 和 const 的区别](09-difference-between-var-let-and-const/README.md)
+	- [番外篇 块级作用域](10-block-scope/README.md)
+	- [第七回 箭头函数](11-arrow-function/README.md)
+	- [番外篇 箭头函数的注意事项](12-arrow-function-notes/README.md)
+	- [第八回 模板字符串](13-template-string/README.md)
 - 第三章 Node 的模块化机制
+	- [第九回 什么是模块化](14-what-is-modularity/README.md)
+	- [番外篇 JavaScript 的模块化](15-javascript-module/README.md)
+	- [番外篇 ECMAScript 2015 的模块](16-ecmascript-2015-module/README.md)
+	- [第十回 Node 的模块系统](17-node-modular-system/README.md)
+	- [第十一回 Node的文件模块](18-node-file-module/README.md)
+	- [番外篇 Node.js 的 Module 对象](19-nodejs-module-object/README.md)
+	- [番外篇 模块化规范](20-modular-specification/README.md)
+- 第四章 创建 HTTP 服务器
 	- []()
 
 ## 版权说明
